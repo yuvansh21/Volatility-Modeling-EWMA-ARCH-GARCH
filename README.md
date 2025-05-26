@@ -85,9 +85,9 @@ Where `z = 1.65` for a 95% confidence level.
 * [pandas](https://pandas.pydata.org/)
 * [matplotlib](https://matplotlib.org/)
 * [arch](https://arch.readthedocs.io/)
-* [yfinance](https://pypi.org/project/yfinance/)
 
----
+
+
 
 
 
@@ -97,5 +97,5 @@ Where `z = 1.65` for a 95% confidence level.
 
 ---
 
-✅ Just run this cell — it creates a perfect `README.md` file, no copying, no manual errors, all headings fixed. Let me know if you want this zipped with folder structure too!
+
 ```
